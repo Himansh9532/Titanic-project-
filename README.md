@@ -1,7 +1,3 @@
-If you're referring to how to describe the Titanic project using icons or better formatting for a more visually appealing presentation, here's a refined version that can be used for your portfolio or presentation with added emphasis using icons or structured elements:
-
----
-
 ### **Titanic Machine Learning Project** 🚢
 
 The **Titanic Machine Learning Project** utilizes the famous Titanic dataset to predict whether a passenger survived or not based on various features like age, gender, class, and others. This project highlights the use of data preprocessing, feature engineering, and different classification algorithms.
